@@ -1,0 +1,19 @@
+button{
+    background-color: purple;
+    color: white;
+    padding: 16px 16px;
+    width: auto;
+    border: none;
+    border-radius: 20px;
+    height: 52px;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 3px 3px 8px gray;
+}
+
+button:hover{
+    background-color: darkmagenta;
+    cursor: pointer;
+}
