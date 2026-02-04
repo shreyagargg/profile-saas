@@ -1,0 +1,23 @@
+.card{
+    background-color: rgba(153, 205, 50, 0.349);
+    padding: 12px 44px;
+    margin: 20px 0;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1300px;
+    height: 80px;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.274);
+    font-size: 24px;
+}
+
+.cards{
+    height: auto;
+    width: 100%;
+}
+
+.card:hover{
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.474);
+    cursor: pointer;
+}
